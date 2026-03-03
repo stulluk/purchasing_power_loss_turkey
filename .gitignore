@@ -1,0 +1,4 @@
+# Exclude config with secrets (e.g. GitHub token)
+cursor-setup.json
+# Python virtual environment
+.venv/

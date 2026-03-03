@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="viewport" content="width=device-width" /><title>https://www.tcmb.gov.tr/kurlar/202512/31122025.xml</title><link rel="stylesheet" type="text/css" href="resource://content-accessible/viewsource.css" /></head><body id="viewsource" style="tab-size: 4"><span id="line1"><span></span><span class="pi">&lt;?xml version="1.0" encoding="UTF-8"?&gt;</span><span>
+</span></span><span id="line2"><span></span><span class="pi">&lt;?xml-stylesheet type="text/xsl" href="isokur.xsl"?&gt;</span><span>
+</span></span><span id="line3"><span></span><span>&lt;<span class="start-tag">Tarih_Date</span> <span class="attribute-name">Tarih</span>="<a class="attribute-value">31.12.2025</a>" <span class="attribute-name">Date</span>="<a class="attribute-value">12/31/2025</a>"  <span class="attribute-name">Bulten_No</span>="<a class="attribute-value">2025/249</a>" &gt;</span><span>
+</span></span><span id="line4"><span>	</span><span>&lt;<span class="start-tag">Currency</span> <span class="attribute-name">CrossOrder</span>="<a class="attribute-value">0</a>" <span class="attribute-name">Kod</span>="<a class="attribute-value">USD</a>" <span class="attribute-name">CurrencyCode</span>="<a class="attribute-value">USD</a>"&gt;</span><span>
+</span></span><span id="line5"><span>			</span><span>&lt;<span class="start-tag">Unit</span>&gt;</span><span>1</span><span>&lt;/<span class="end-tag">Unit</span>&gt;</span><span>
+</span></span><span id="line6"><span>			</span><span>&lt;<span class="start-tag">Isim</span>&gt;</span><span>ABD DOLARI</span><span>&lt;/<span class="end-tag">Isim</span>&gt;</span><span>
+</span></span><span id="line7"><span>			</span><span>&lt;<span class="start-tag">CurrencyName</span>&gt;</span><span>US DOLLAR</span><span>&lt;/<span class="end-tag">CurrencyName</span>&gt;</span><span>
+</span></span><span id="line8"><span>			</span><span>&lt;<span class="start-tag">ForexBuying</span>&gt;</span><span>42.8457</span><span>&lt;/<span class="end-tag">ForexBuying</span>&gt;</span><span>
+</span></span><span id="line9"><span>			</span><span>&lt;<span class="start-tag">ForexSelling</span>&gt;</span><span>42.9229</span><span>&lt;/<span class="end-tag">ForexSelling</span>&gt;</span><span>
+</span></span><span id="line10"><span>			</span><span>&lt;<span class="start-tag">BanknoteBuying</span>&gt;</span><span>42.8157</span><span>&lt;/<span class="end-tag">BanknoteBuying</span>&gt;</span><span>
+</span></span><span id="line11"><span>			</span><span>&lt;<span class="start-tag">BanknoteSelling</span>&gt;</span><span>42.9873</span><span>&lt;/<span class="end-tag">BanknoteSelling</span>&gt;</span><span>
+</span></span><span id="line12"><span>			</span><span>&lt;<span class="start-tag">CrossRateUSD</span><span>/</span>&gt;</span><span>
+</span></span><span id="line13"><span>			</span><span>&lt;<span class="start-tag">CrossRateOther</span><span>/</span>&gt;</span><span>
+</span></span><span id="line14"><span>		
+</span></span><span id="line15"><span>	</span><span>&lt;/<span class="end-tag">Currency</span>&gt;</span><span>
+</span></span><span id="line16"><span>	</span><span>&lt;<span class="start-tag">Currency</span> <span class="attribute-name">CrossOrder</span>="<a class="attribute-value">1</a>" <span class="attribute-name">Kod</span>="<a class="attribute-value">AUD</a>" <span class="attribute-name">CurrencyCode</span>="<a class="attribute-value">AUD</a>"&gt;</span><span>
+</span></span><span id="line17"><span>			</span><span>&lt;<span class="start-tag">Unit</span>&gt;</span><span>1</span><span>&lt;/<span class="end-tag">Unit</span>&gt;</span><span>
+</span></span><span id="line18"><span>			</span><span>&lt;<span class="start-tag">Isim</span>&gt;</span><span>AVUSTRALYA DOLARI</span><span>&lt;/<span class="end-tag">Isim</span>&gt;</span><span>
+</span></span><span id="line19"><span>			</span><span>&lt;<span class="start-tag">CurrencyName</span>&gt;</span><span>AUSTRALIAN DOLLAR</span><span>&lt;/<span class="end-tag">CurrencyName</span>&gt;</span><span>
+</span></span><span id="line20"><span>			</span><span>&lt;<span class="start-tag">ForexBuying</span>&gt;</span><span>28.5725</span><span>&lt;/<span class="end-tag">ForexBuying</span>&gt;</span><span>
+</span></span><span id="line21"><span>			</span><span>&lt;<span class="start-tag">ForexSelling</span>&gt;</span><span>28.7588</span><span>&lt;/<span class="end-tag">ForexSelling</span>&gt;</span><span>
+</span></span><span id="line22"><span>			</span><span>&lt;<span class="start-tag">BanknoteBuying</span>&gt;</span><span>28.4411</span><span>&lt;/<span class="end-tag">BanknoteBuying</span>&gt;</span><span>
+</span></span><span id="line23"><span>			</span><span>&lt;<span class="start-tag">BanknoteSelling</span>&gt;</span><span>28.9314</span><span>&lt;/<span class="end-tag">BanknoteSelling</span>&gt;</span><span>
+</span></span><span id="line24"><span>				</span><span>&lt;<span class="start-tag">CrossRateUSD</span>&gt;</span><span>1.4960</span><span>&lt;/<span class="end-tag">CrossRateUSD</span>&gt;</span><span>
+</span></span><span id="line25"><span>				</span><span>&lt;<span class="start-tag">CrossRateOther</span><span>/</span>&gt;</span><span>
+</span></span><span id="line26"><span>		
+</span></span><span id="line27"><span>	</span><span>&lt;/<span class="end-tag">Currency</span>&gt;</span><span>
+</span></span><span id="line28"><span>	</span><span>&lt;<span class="start-tag">Currency</span> <span class="attribute-name">CrossOrder</span>="<a class="attribute-value">2</a>" <span class="attribute-name">Kod</span>="<a class="attribute-value">DKK</a>" <span class="attribute-name">CurrencyCode</span>="<a class="attribute-value">DKK</a>"&gt;</span><span>
+</span></span><span id="line29"><span>			</span><span>&lt;<span class="start-tag">Unit</span>&gt;</span><span>1</span><span>&lt;/<span class="end-tag">Unit</span>&gt;</span><span>
+</span></span><span id="line30"><span>			</span><span>&lt;<span class="start-tag">Isim</span>&gt;</span><span>DANİMARKA KRONU</span><span>&lt;/<span class="end-tag">Isim</span>&gt;</span><span>
+</span></span><span id="line31"><span>			</span><span>&lt;<span class="start-tag">CurrencyName</span>&gt;</span><span>DANISH KRONE</span><span>&lt;/<span class="end-tag">CurrencyName</span>&gt;</span><span>
+</span></span><span id="line32"><span>			</span><span>&lt;<span class="start-tag">ForexBuying</span>&gt;</span><span>6.7225</span><span>&lt;/<span class="end-tag">ForexBuying</span>&gt;</span><span>
+</span></span><span id="line33"><span>			</span><span>&lt;<span class="start-tag">ForexSelling</span>&gt;</span><span>6.7555</span><span>&lt;/<span class="end-tag">ForexSelling</span>&gt;</span><span>
+</span></span><span id="line34"><span>			</span><span>&lt;<span class="start-tag">BanknoteBuying</span>&gt;</span><span>6.7178</span><span>&lt;/<span class="end-tag">BanknoteBuying</span>&gt;</span><span>
+</span></span><span id="line35"><span>			</span><span>&lt;<span class="start-tag">BanknoteSelling</span>&gt;</span><span>6.7711</span><span>&lt;/<span class="end-tag">BanknoteSelling</span>&gt;</span><span>
+</span></span><span id="line36"><span>				</span><span>&lt;<span class="start-tag">CrossRateUSD</span>&gt;</span><span>6.3636</span><span>&lt;/<span class="end-tag">CrossRateUSD</span>&gt;</span><span>
+</span></span><span id="line37"><span>				</span><span>&lt;<span class="start-tag">CrossRateOther</span><span>/</span>&gt;</span><span>
+</span></span><span id="line38"><span>		
+</span></span><span id="line39"><span>	</span><span>&lt;/<span class="end-tag">Currency</span>&gt;</span><span>
+</span></span><span id="line40"><span>	</span><span>&lt;<span class="start-tag">Currency</span> <span class="attribute-name">CrossOrder</span>="<a class="attribute-value">9</a>" <span class="attribute-name">Kod</span>="<a class="attribute-value">EUR</a>" <span class="attribute-name">CurrencyCode</span>="<a class="attribute-value">EUR</a>"&gt;</span><span>
+</span></span><span id="line41"><span>			</span><span>&lt;<span class="start-tag">Unit</span>&gt;</span><span>1</span><span>&lt;/<span class="end-tag">Unit</span>&gt;</span><span>
+</span></span><span id="line42"><span>			</span><span>&lt;<span class="start-tag">Isim</span>&gt;</span><span>EURO</span><span>&lt;/<span class="end-tag">Isim</span>&gt;</span><span>
+</span></span><span id="line43"><span>			</span><span>&lt;<span class="start-tag">CurrencyName</span>&gt;</span><span>EURO</span><span>&lt;/<span class="end-tag">CurrencyName</span>&gt;</span><span>
+</span></span><span id="line44"><span>			</span><span>&lt;<span class="start-tag">ForexBuying</span>&gt;</span><span>50.2859</span><span>&lt;/<span class="end-tag">ForexBuying</span>&gt;</span><span>
+</span></span><span id="line45"><span>			</span><span>&lt;<span class="start-tag">ForexSelling</span>&gt;</span><span>50.3765</span><span>&lt;/<span class="end-tag">ForexSelling</span>&gt;</span><span>
+</span></span><span id="line46"><span>			</span><span>&lt;<span class="start-tag">BanknoteBuying</span>&gt;</span><span>50.2507</span><span>&lt;/<span class="end-tag">BanknoteBuying</span>&gt;</span><span>
+</span></span><span id="line47"><span>			</span><span>&lt;<span class="start-tag">BanknoteSelling</span>&gt;</span><span>50.4520</span><span>&lt;/<span class="end-tag">BanknoteSelling</span>&gt;</span><span>
+</span></span><span id="line48"><span>				</span><span>&lt;<span class="start-tag">CrossRateUSD</span><span>/</span>&gt;</span><span>
+</span></span><span id="line49"><span>				</span><span>&lt;<span class="start-tag">CrossRateOther</span>&gt;</span><span>1.1737</span><span>&lt;/<span class="end-tag">CrossRateOther</span>&gt;</span><span>
+</span></span><span id="line50"><span>		
+</span></span><span id="line51"><span>	</span><span>&lt;/<span class="end-tag">Currency</span>&gt;</span><span>
+</span></span><span id="line52"><span>	</span><span>&lt;<span class="start-tag">Currency</span> <span class="attribute-name">CrossOrder</span>="<a class="attribute-value">10</a>" <span class="attribute-name">Kod</span>="<a class="attribute-value">GBP</a>" <span class="attribute-name">CurrencyCode</span>="<a class="attribute-value">GBP</a>"&gt;</span><span>
+</span></span><span id="line53"><span>			</span><span>&lt;<span class="start-tag">Unit</span>&gt;</span><span>1</span><span>&lt;/<span class="end-tag">Unit</span>&gt;</span><span>
+</span></span><span id="line54"><span>			</span><span>&lt;<span class="start-tag">Isim</span>&gt;</span><span>İNGİLİZ STERLİNİ</span><span>&lt;/<span class="end-tag">Isim</span>&gt;</span><span>
+</span></span><span id="line55"><span>			</span><span>&lt;<span class="start-tag">CurrencyName</span>&gt;</span><span>POUND STERLING</span><span>&lt;/<span class="end-tag">CurrencyName</span>&gt;</span><span>
+</span></span><span id="line56"><span>			</span><span>&lt;<span class="start-tag">ForexBuying</span>&gt;</span><span>57.5123</span><span>&lt;/<span class="end-tag">ForexBuying</span>&gt;</span><span>
+</span></span><span id="line57"><span>			</span><span>&lt;<span class="start-tag">ForexSelling</span>&gt;</span><span>57.8122</span><span>&lt;/<span class="end-tag">ForexSelling</span>&gt;</span><span>
+</span></span><span id="line58"><span>			</span><span>&lt;<span class="start-tag">BanknoteBuying</span>&gt;</span><span>57.4721</span><span>&lt;/<span class="end-tag">BanknoteBuying</span>&gt;</span><span>
+</span></span><span id="line59"><span>			</span><span>&lt;<span class="start-tag">BanknoteSelling</span>&gt;</span><span>57.8989</span><span>&lt;/<span class="end-tag">BanknoteSelling</span>&gt;</span><span>
+</span></span><span id="line60"><span>				</span><span>&lt;<span class="start-tag">CrossRateUSD</span><span>/</span>&gt;</span><span>
+</span></span><span id="line61"><span>				</span><span>&lt;<span class="start-tag">CrossRateOther</span>&gt;</span><span>1.3446</span><span>&lt;/<span class="end-tag">CrossRateOther</span>&gt;</span><span>
+</span></span><span id="line62"><span>		
+</span></span><span id="line63"><span>	</span><span>&lt;/<span class="end-tag">Currency</span>&gt;</span><span>
+</span></span><span id="line64"><span>	</span><span>&lt;<span class="start-tag">Currency</span> <span class="attribute-name">CrossOrder</span>="<a class="attribute-value">3</a>" <span class="attribute-name">Kod</span>="<a class="attribute-value">CHF</a>" <span class="attribute-name">CurrencyCode</span>="<a class="attribute-value">CHF</a>"&gt;</span><span>
+</span></span><span id="line65"><span>			</span><span>&lt;<span class="start-tag">Unit</span>&gt;</span><span>1</span><span>&lt;/<span class="end-tag">Unit</span>&gt;</span><span>
+</span></span><span id="line66"><span>			</span><span>&lt;<span class="start-tag">Isim</span>&gt;</span><span>İSVİÇRE FRANGI</span><span>&lt;/<span class="end-tag">Isim</span>&gt;</span><span>
+</span></span><span id="line67"><span>			</span><span>&lt;<span class="start-tag">CurrencyName</span>&gt;</span><span>SWISS FRANK</span><span>&lt;/<span class="end-tag">CurrencyName</span>&gt;</span><span>
+</span></span><span id="line68"><span>			</span><span>&lt;<span class="start-tag">ForexBuying</span>&gt;</span><span>53.8919</span><span>&lt;/<span class="end-tag">ForexBuying</span>&gt;</span><span>
+</span></span><span id="line69"><span>			</span><span>&lt;<span class="start-tag">ForexSelling</span>&gt;</span><span>54.2380</span><span>&lt;/<span class="end-tag">ForexSelling</span>&gt;</span><span>
+</span></span><span id="line70"><span>			</span><span>&lt;<span class="start-tag">BanknoteBuying</span>&gt;</span><span>53.8111</span><span>&lt;/<span class="end-tag">BanknoteBuying</span>&gt;</span><span>
+</span></span><span id="line71"><span>			</span><span>&lt;<span class="start-tag">BanknoteSelling</span>&gt;</span><span>54.3193</span><span>&lt;/<span class="end-tag">BanknoteSelling</span>&gt;</span><span>
+</span></span><span id="line72"><span>				</span><span>&lt;<span class="start-tag">CrossRateUSD</span>&gt;</span><span>0.7932</span><span>&lt;/<span class="end-tag">CrossRateUSD</span>&gt;</span><span>
+</span></span><span id="line73"><span>				</span><span>&lt;<span class="start-tag">CrossRateOther</span><span>/</span>&gt;</span><span>
+</span></span><span id="line74"><span>		
+</span></span><span id="line75"><span>	</span><span>&lt;/<span class="end-tag">Currency</span>&gt;</span><span>
+</span></span><span id="line76"><span>	</span><span>&lt;<span class="start-tag">Currency</span> <span class="attribute-name">CrossOrder</span>="<a class="attribute-value">4</a>" <span class="attribute-name">Kod</span>="<a class="attribute-value">SEK</a>" <span class="attribute-name">CurrencyCode</span>="<a class="attribute-value">SEK</a>"&gt;</span><span>
+</span></span><span id="line77"><span>			</span><span>&lt;<span class="start-tag">Unit</span>&gt;</span><span>1</span><span>&lt;/<span class="end-tag">Unit</span>&gt;</span><span>
+</span></span><span id="line78"><span>			</span><span>&lt;<span class="start-tag">Isim</span>&gt;</span><span>İSVEÇ KRONU</span><span>&lt;/<span class="end-tag">Isim</span>&gt;</span><span>
+</span></span><span id="line79"><span>			</span><span>&lt;<span class="start-tag">CurrencyName</span>&gt;</span><span>SWEDISH KRONA</span><span>&lt;/<span class="end-tag">CurrencyName</span>&gt;</span><span>
+</span></span><span id="line80"><span>			</span><span>&lt;<span class="start-tag">ForexBuying</span>&gt;</span><span>4.6317</span><span>&lt;/<span class="end-tag">ForexBuying</span>&gt;</span><span>
+</span></span><span id="line81"><span>			</span><span>&lt;<span class="start-tag">ForexSelling</span>&gt;</span><span>4.6796</span><span>&lt;/<span class="end-tag">ForexSelling</span>&gt;</span><span>
+</span></span><span id="line82"><span>			</span><span>&lt;<span class="start-tag">BanknoteBuying</span>&gt;</span><span>4.6284</span><span>&lt;/<span class="end-tag">BanknoteBuying</span>&gt;</span><span>
+</span></span><span id="line83"><span>			</span><span>&lt;<span class="start-tag">BanknoteSelling</span>&gt;</span><span>4.6904</span><span>&lt;/<span class="end-tag">BanknoteSelling</span>&gt;</span><span>
+</span></span><span id="line84"><span>				</span><span>&lt;<span class="start-tag">CrossRateUSD</span>&gt;</span><span>9.2113</span><span>&lt;/<span class="end-tag">CrossRateUSD</span>&gt;</span><span>
+</span></span><span id="line85"><span>				</span><span>&lt;<span class="start-tag">CrossRateOther</span><span>/</span>&gt;</span><span>
+</span></span><span id="line86"><span>		
+</span></span><span id="line87"><span>	</span><span>&lt;/<span class="end-tag">Currency</span>&gt;</span><span>
+</span></span><span id="line88"><span>	</span><span>&lt;<span class="start-tag">Currency</span> <span class="attribute-name">CrossOrder</span>="<a class="attribute-value">6</a>" <span class="attribute-name">Kod</span>="<a class="attribute-value">CAD</a>" <span class="attribute-name">CurrencyCode</span>="<a class="attribute-value">CAD</a>"&gt;</span><span>
+</span></span><span id="line89"><span>			</span><span>&lt;<span class="start-tag">Unit</span>&gt;</span><span>1</span><span>&lt;/<span class="end-tag">Unit</span>&gt;</span><span>
+</span></span><span id="line90"><span>			</span><span>&lt;<span class="start-tag">Isim</span>&gt;</span><span>KANADA DOLARI</span><span>&lt;/<span class="end-tag">Isim</span>&gt;</span><span>
+</span></span><span id="line91"><span>			</span><span>&lt;<span class="start-tag">CurrencyName</span>&gt;</span><span>CANADIAN DOLLAR</span><span>&lt;/<span class="end-tag">CurrencyName</span>&gt;</span><span>
+</span></span><span id="line92"><span>			</span><span>&lt;<span class="start-tag">ForexBuying</span>&gt;</span><span>31.2200</span><span>&lt;/<span class="end-tag">ForexBuying</span>&gt;</span><span>
+</span></span><span id="line93"><span>			</span><span>&lt;<span class="start-tag">ForexSelling</span>&gt;</span><span>31.3608</span><span>&lt;/<span class="end-tag">ForexSelling</span>&gt;</span><span>
+</span></span><span id="line94"><span>			</span><span>&lt;<span class="start-tag">BanknoteBuying</span>&gt;</span><span>31.1045</span><span>&lt;/<span class="end-tag">BanknoteBuying</span>&gt;</span><span>
+</span></span><span id="line95"><span>			</span><span>&lt;<span class="start-tag">BanknoteSelling</span>&gt;</span><span>31.4800</span><span>&lt;/<span class="end-tag">BanknoteSelling</span>&gt;</span><span>
+</span></span><span id="line96"><span>				</span><span>&lt;<span class="start-tag">CrossRateUSD</span>&gt;</span><span>1.3705</span><span>&lt;/<span class="end-tag">CrossRateUSD</span>&gt;</span><span>
+</span></span><span id="line97"><span>				</span><span>&lt;<span class="start-tag">CrossRateOther</span><span>/</span>&gt;</span><span>
+</span></span><span id="line98"><span>		
+</span></span><span id="line99"><span>	</span><span>&lt;/<span class="end-tag">Currency</span>&gt;</span><span>
+</span></span><span id="line100"><span>	</span><span>&lt;<span class="start-tag">Currency</span> <span class="attribute-name">CrossOrder</span>="<a class="attribute-value">11</a>" <span class="attribute-name">Kod</span>="<a class="attribute-value">KWD</a>" <span class="attribute-name">CurrencyCode</span>="<a class="attribute-value">KWD</a>"&gt;</span><span>
+</span></span><span id="line101"><span>			</span><span>&lt;<span class="start-tag">Unit</span>&gt;</span><span>1</span><span>&lt;/<span class="end-tag">Unit</span>&gt;</span><span>
+</span></span><span id="line102"><span>			</span><span>&lt;<span class="start-tag">Isim</span>&gt;</span><span>KUVEYT DİNARI</span><span>&lt;/<span class="end-tag">Isim</span>&gt;</span><span>
+</span></span><span id="line103"><span>			</span><span>&lt;<span class="start-tag">CurrencyName</span>&gt;</span><span>KUWAITI DINAR</span><span>&lt;/<span class="end-tag">CurrencyName</span>&gt;</span><span>
+</span></span><span id="line104"><span>			</span><span>&lt;<span class="start-tag">ForexBuying</span>&gt;</span><span>138.3691</span><span>&lt;/<span class="end-tag">ForexBuying</span>&gt;</span><span>
+</span></span><span id="line105"><span>			</span><span>&lt;<span class="start-tag">ForexSelling</span>&gt;</span><span>140.1796</span><span>&lt;/<span class="end-tag">ForexSelling</span>&gt;</span><span>
+</span></span><span id="line106"><span>			</span><span>&lt;<span class="start-tag">BanknoteBuying</span>&gt;</span><span>136.2935</span><span>&lt;/<span class="end-tag">BanknoteBuying</span>&gt;</span><span>
+</span></span><span id="line107"><span>			</span><span>&lt;<span class="start-tag">BanknoteSelling</span>&gt;</span><span>142.2823</span><span>&lt;/<span class="end-tag">BanknoteSelling</span>&gt;</span><span>
+</span></span><span id="line108"><span>				</span><span>&lt;<span class="start-tag">CrossRateUSD</span><span>/</span>&gt;</span><span>
+</span></span><span id="line109"><span>				</span><span>&lt;<span class="start-tag">CrossRateOther</span>&gt;</span><span>3.2477</span><span>&lt;/<span class="end-tag">CrossRateOther</span>&gt;</span><span>
+</span></span><span id="line110"><span>		
+</span></span><span id="line111"><span>	</span><span>&lt;/<span class="end-tag">Currency</span>&gt;</span><span>
+</span></span><span id="line112"><span>	</span><span>&lt;<span class="start-tag">Currency</span> <span class="attribute-name">CrossOrder</span>="<a class="attribute-value">7</a>" <span class="attribute-name">Kod</span>="<a class="attribute-value">NOK</a>" <span class="attribute-name">CurrencyCode</span>="<a class="attribute-value">NOK</a>"&gt;</span><span>
+</span></span><span id="line113"><span>			</span><span>&lt;<span class="start-tag">Unit</span>&gt;</span><span>1</span><span>&lt;/<span class="end-tag">Unit</span>&gt;</span><span>
+</span></span><span id="line114"><span>			</span><span>&lt;<span class="start-tag">Isim</span>&gt;</span><span>NORVEÇ KRONU</span><span>&lt;/<span class="end-tag">Isim</span>&gt;</span><span>
+</span></span><span id="line115"><span>			</span><span>&lt;<span class="start-tag">CurrencyName</span>&gt;</span><span>NORWEGIAN KRONE</span><span>&lt;/<span class="end-tag">CurrencyName</span>&gt;</span><span>
+</span></span><span id="line116"><span>			</span><span>&lt;<span class="start-tag">ForexBuying</span>&gt;</span><span>4.2466</span><span>&lt;/<span class="end-tag">ForexBuying</span>&gt;</span><span>
+</span></span><span id="line117"><span>			</span><span>&lt;<span class="start-tag">ForexSelling</span>&gt;</span><span>4.2752</span><span>&lt;/<span class="end-tag">ForexSelling</span>&gt;</span><span>
+</span></span><span id="line118"><span>			</span><span>&lt;<span class="start-tag">BanknoteBuying</span>&gt;</span><span>4.2436</span><span>&lt;/<span class="end-tag">BanknoteBuying</span>&gt;</span><span>
+</span></span><span id="line119"><span>			</span><span>&lt;<span class="start-tag">BanknoteSelling</span>&gt;</span><span>4.2850</span><span>&lt;/<span class="end-tag">BanknoteSelling</span>&gt;</span><span>
+</span></span><span id="line120"><span>				</span><span>&lt;<span class="start-tag">CrossRateUSD</span>&gt;</span><span>10.06</span><span>&lt;/<span class="end-tag">CrossRateUSD</span>&gt;</span><span>
+</span></span><span id="line121"><span>				</span><span>&lt;<span class="start-tag">CrossRateOther</span><span>/</span>&gt;</span><span>
+</span></span><span id="line122"><span>		
+</span></span><span id="line123"><span>	</span><span>&lt;/<span class="end-tag">Currency</span>&gt;</span><span>
+</span></span><span id="line124"><span>	</span><span>&lt;<span class="start-tag">Currency</span> <span class="attribute-name">CrossOrder</span>="<a class="attribute-value">8</a>" <span class="attribute-name">Kod</span>="<a class="attribute-value">SAR</a>" <span class="attribute-name">CurrencyCode</span>="<a class="attribute-value">SAR</a>"&gt;</span><span>
+</span></span><span id="line125"><span>			</span><span>&lt;<span class="start-tag">Unit</span>&gt;</span><span>1</span><span>&lt;/<span class="end-tag">Unit</span>&gt;</span><span>
+</span></span><span id="line126"><span>			</span><span>&lt;<span class="start-tag">Isim</span>&gt;</span><span>SUUDİ ARABİSTAN RİYALİ</span><span>&lt;/<span class="end-tag">Isim</span>&gt;</span><span>
+</span></span><span id="line127"><span>			</span><span>&lt;<span class="start-tag">CurrencyName</span>&gt;</span><span>SAUDI RIYAL</span><span>&lt;/<span class="end-tag">CurrencyName</span>&gt;</span><span>
+</span></span><span id="line128"><span>			</span><span>&lt;<span class="start-tag">ForexBuying</span>&gt;</span><span>11.4244</span><span>&lt;/<span class="end-tag">ForexBuying</span>&gt;</span><span>
+</span></span><span id="line129"><span>			</span><span>&lt;<span class="start-tag">ForexSelling</span>&gt;</span><span>11.4450</span><span>&lt;/<span class="end-tag">ForexSelling</span>&gt;</span><span>
+</span></span><span id="line130"><span>			</span><span>&lt;<span class="start-tag">BanknoteBuying</span>&gt;</span><span>11.3388</span><span>&lt;/<span class="end-tag">BanknoteBuying</span>&gt;</span><span>
+</span></span><span id="line131"><span>			</span><span>&lt;<span class="start-tag">BanknoteSelling</span>&gt;</span><span>11.5309</span><span>&lt;/<span class="end-tag">BanknoteSelling</span>&gt;</span><span>
+</span></span><span id="line132"><span>				</span><span>&lt;<span class="start-tag">CrossRateUSD</span>&gt;</span><span>3.7504</span><span>&lt;/<span class="end-tag">CrossRateUSD</span>&gt;</span><span>
+</span></span><span id="line133"><span>				</span><span>&lt;<span class="start-tag">CrossRateOther</span><span>/</span>&gt;</span><span>
+</span></span><span id="line134"><span>		
+</span></span><span id="line135"><span>	</span><span>&lt;/<span class="end-tag">Currency</span>&gt;</span><span>
+</span></span><span id="line136"><span>	</span><span>&lt;<span class="start-tag">Currency</span> <span class="attribute-name">CrossOrder</span>="<a class="attribute-value">5</a>" <span class="attribute-name">Kod</span>="<a class="attribute-value">JPY</a>" <span class="attribute-name">CurrencyCode</span>="<a class="attribute-value">JPY</a>"&gt;</span><span>
+</span></span><span id="line137"><span>			</span><span>&lt;<span class="start-tag">Unit</span>&gt;</span><span>100</span><span>&lt;/<span class="end-tag">Unit</span>&gt;</span><span>
+</span></span><span id="line138"><span>			</span><span>&lt;<span class="start-tag">Isim</span>&gt;</span><span>JAPON YENİ</span><span>&lt;/<span class="end-tag">Isim</span>&gt;</span><span>
+</span></span><span id="line139"><span>			</span><span>&lt;<span class="start-tag">CurrencyName</span>&gt;</span><span>JAPENESE YEN</span><span>&lt;/<span class="end-tag">CurrencyName</span>&gt;</span><span>
+</span></span><span id="line140"><span>			</span><span>&lt;<span class="start-tag">ForexBuying</span>&gt;</span><span>27.2921</span><span>&lt;/<span class="end-tag">ForexBuying</span>&gt;</span><span>
+</span></span><span id="line141"><span>			</span><span>&lt;<span class="start-tag">ForexSelling</span>&gt;</span><span>27.4728</span><span>&lt;/<span class="end-tag">ForexSelling</span>&gt;</span><span>
+</span></span><span id="line142"><span>			</span><span>&lt;<span class="start-tag">BanknoteBuying</span>&gt;</span><span>27.1911</span><span>&lt;/<span class="end-tag">BanknoteBuying</span>&gt;</span><span>
+</span></span><span id="line143"><span>			</span><span>&lt;<span class="start-tag">BanknoteSelling</span>&gt;</span><span>27.5772</span><span>&lt;/<span class="end-tag">BanknoteSelling</span>&gt;</span><span>
+</span></span><span id="line144"><span>				</span><span>&lt;<span class="start-tag">CrossRateUSD</span>&gt;</span><span>156.61</span><span>&lt;/<span class="end-tag">CrossRateUSD</span>&gt;</span><span>
+</span></span><span id="line145"><span>				</span><span>&lt;<span class="start-tag">CrossRateOther</span><span>/</span>&gt;</span><span>
+</span></span><span id="line146"><span>		
+</span></span><span id="line147"><span>	</span><span>&lt;/<span class="end-tag">Currency</span>&gt;</span><span>
+</span></span><span id="line148"><span>	</span><span>&lt;<span class="start-tag">Currency</span> <span class="attribute-name">CrossOrder</span>="<a class="attribute-value">12</a>" <span class="attribute-name">Kod</span>="<a class="attribute-value">BGN</a>" <span class="attribute-name">CurrencyCode</span>="<a class="attribute-value">BGN</a>"&gt;</span><span>
+</span></span><span id="line149"><span>			</span><span>&lt;<span class="start-tag">Unit</span>&gt;</span><span>1</span><span>&lt;/<span class="end-tag">Unit</span>&gt;</span><span>
+</span></span><span id="line150"><span>			</span><span>&lt;<span class="start-tag">Isim</span>&gt;</span><span>BULGAR LEVASI</span><span>&lt;/<span class="end-tag">Isim</span>&gt;</span><span>
+</span></span><span id="line151"><span>			</span><span>&lt;<span class="start-tag">CurrencyName</span>&gt;</span><span>BULGARIAN LEV</span><span>&lt;/<span class="end-tag">CurrencyName</span>&gt;</span><span>
+</span></span><span id="line152"><span>			</span><span>&lt;<span class="start-tag">ForexBuying</span>&gt;</span><span>25.6165</span><span>&lt;/<span class="end-tag">ForexBuying</span>&gt;</span><span>
+</span></span><span id="line153"><span>			</span><span>&lt;<span class="start-tag">ForexSelling</span>&gt;</span><span>25.9517</span><span>&lt;/<span class="end-tag">ForexSelling</span>&gt;</span><span>
+</span></span><span id="line154"><span>			</span><span>&lt;<span class="start-tag">BanknoteBuying</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">BanknoteBuying</span>&gt;</span><span>
+</span></span><span id="line155"><span>			</span><span>&lt;<span class="start-tag">BanknoteSelling</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">BanknoteSelling</span>&gt;</span><span>
+</span></span><span id="line156"><span>				</span><span>&lt;<span class="start-tag">CrossRateUSD</span>&gt;</span><span>1.6632</span><span>&lt;/<span class="end-tag">CrossRateUSD</span>&gt;</span><span>
+</span></span><span id="line157"><span>				</span><span>&lt;<span class="start-tag">CrossRateOther</span><span>/</span>&gt;</span><span>
+</span></span><span id="line158"><span>		
+</span></span><span id="line159"><span>	</span><span>&lt;/<span class="end-tag">Currency</span>&gt;</span><span>
+</span></span><span id="line160"><span>	</span><span>&lt;<span class="start-tag">Currency</span> <span class="attribute-name">CrossOrder</span>="<a class="attribute-value">13</a>" <span class="attribute-name">Kod</span>="<a class="attribute-value">RON</a>" <span class="attribute-name">CurrencyCode</span>="<a class="attribute-value">RON</a>"&gt;</span><span>
+</span></span><span id="line161"><span>			</span><span>&lt;<span class="start-tag">Unit</span>&gt;</span><span>1</span><span>&lt;/<span class="end-tag">Unit</span>&gt;</span><span>
+</span></span><span id="line162"><span>			</span><span>&lt;<span class="start-tag">Isim</span>&gt;</span><span>RUMEN LEYİ</span><span>&lt;/<span class="end-tag">Isim</span>&gt;</span><span>
+</span></span><span id="line163"><span>			</span><span>&lt;<span class="start-tag">CurrencyName</span>&gt;</span><span>NEW LEU</span><span>&lt;/<span class="end-tag">CurrencyName</span>&gt;</span><span>
+</span></span><span id="line164"><span>			</span><span>&lt;<span class="start-tag">ForexBuying</span>&gt;</span><span>9.8123</span><span>&lt;/<span class="end-tag">ForexBuying</span>&gt;</span><span>
+</span></span><span id="line165"><span>			</span><span>&lt;<span class="start-tag">ForexSelling</span>&gt;</span><span>9.9407</span><span>&lt;/<span class="end-tag">ForexSelling</span>&gt;</span><span>
+</span></span><span id="line166"><span>			</span><span>&lt;<span class="start-tag">BanknoteBuying</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">BanknoteBuying</span>&gt;</span><span>
+</span></span><span id="line167"><span>			</span><span>&lt;<span class="start-tag">BanknoteSelling</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">BanknoteSelling</span>&gt;</span><span>
+</span></span><span id="line168"><span>				</span><span>&lt;<span class="start-tag">CrossRateUSD</span>&gt;</span><span>4.3421</span><span>&lt;/<span class="end-tag">CrossRateUSD</span>&gt;</span><span>
+</span></span><span id="line169"><span>				</span><span>&lt;<span class="start-tag">CrossRateOther</span><span>/</span>&gt;</span><span>
+</span></span><span id="line170"><span>		
+</span></span><span id="line171"><span>	</span><span>&lt;/<span class="end-tag">Currency</span>&gt;</span><span>
+</span></span><span id="line172"><span>	</span><span>&lt;<span class="start-tag">Currency</span> <span class="attribute-name">CrossOrder</span>="<a class="attribute-value">14</a>" <span class="attribute-name">Kod</span>="<a class="attribute-value">RUB</a>" <span class="attribute-name">CurrencyCode</span>="<a class="attribute-value">RUB</a>"&gt;</span><span>
+</span></span><span id="line173"><span>			</span><span>&lt;<span class="start-tag">Unit</span>&gt;</span><span>1</span><span>&lt;/<span class="end-tag">Unit</span>&gt;</span><span>
+</span></span><span id="line174"><span>			</span><span>&lt;<span class="start-tag">Isim</span>&gt;</span><span>RUS RUBLESİ</span><span>&lt;/<span class="end-tag">Isim</span>&gt;</span><span>
+</span></span><span id="line175"><span>			</span><span>&lt;<span class="start-tag">CurrencyName</span>&gt;</span><span>RUSSIAN ROUBLE</span><span>&lt;/<span class="end-tag">CurrencyName</span>&gt;</span><span>
+</span></span><span id="line176"><span>			</span><span>&lt;<span class="start-tag">ForexBuying</span>&gt;</span><span>0.53495</span><span>&lt;/<span class="end-tag">ForexBuying</span>&gt;</span><span>
+</span></span><span id="line177"><span>			</span><span>&lt;<span class="start-tag">ForexSelling</span>&gt;</span><span>0.54195</span><span>&lt;/<span class="end-tag">ForexSelling</span>&gt;</span><span>
+</span></span><span id="line178"><span>			</span><span>&lt;<span class="start-tag">BanknoteBuying</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">BanknoteBuying</span>&gt;</span><span>
+</span></span><span id="line179"><span>			</span><span>&lt;<span class="start-tag">BanknoteSelling</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">BanknoteSelling</span>&gt;</span><span>
+</span></span><span id="line180"><span>				</span><span>&lt;<span class="start-tag">CrossRateUSD</span>&gt;</span><span>79.64</span><span>&lt;/<span class="end-tag">CrossRateUSD</span>&gt;</span><span>
+</span></span><span id="line181"><span>				</span><span>&lt;<span class="start-tag">CrossRateOther</span><span>/</span>&gt;</span><span>
+</span></span><span id="line182"><span>		
+</span></span><span id="line183"><span>	</span><span>&lt;/<span class="end-tag">Currency</span>&gt;</span><span>
+</span></span><span id="line184"><span>	</span><span>&lt;<span class="start-tag">Currency</span> <span class="attribute-name">CrossOrder</span>="<a class="attribute-value">16</a>" <span class="attribute-name">Kod</span>="<a class="attribute-value">CNY</a>" <span class="attribute-name">CurrencyCode</span>="<a class="attribute-value">CNY</a>"&gt;</span><span>
+</span></span><span id="line185"><span>			</span><span>&lt;<span class="start-tag">Unit</span>&gt;</span><span>1</span><span>&lt;/<span class="end-tag">Unit</span>&gt;</span><span>
+</span></span><span id="line186"><span>			</span><span>&lt;<span class="start-tag">Isim</span>&gt;</span><span>ÇİN YUANI</span><span>&lt;/<span class="end-tag">Isim</span>&gt;</span><span>
+</span></span><span id="line187"><span>			</span><span>&lt;<span class="start-tag">CurrencyName</span>&gt;</span><span>CHINESE RENMINBI</span><span>&lt;/<span class="end-tag">CurrencyName</span>&gt;</span><span>
+</span></span><span id="line188"><span>			</span><span>&lt;<span class="start-tag">ForexBuying</span>&gt;</span><span>6.0940</span><span>&lt;/<span class="end-tag">ForexBuying</span>&gt;</span><span>
+</span></span><span id="line189"><span>			</span><span>&lt;<span class="start-tag">ForexSelling</span>&gt;</span><span>6.1738</span><span>&lt;/<span class="end-tag">ForexSelling</span>&gt;</span><span>
+</span></span><span id="line190"><span>			</span><span>&lt;<span class="start-tag">BanknoteBuying</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">BanknoteBuying</span>&gt;</span><span>
+</span></span><span id="line191"><span>			</span><span>&lt;<span class="start-tag">BanknoteSelling</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">BanknoteSelling</span>&gt;</span><span>
+</span></span><span id="line192"><span>				</span><span>&lt;<span class="start-tag">CrossRateUSD</span>&gt;</span><span>6.9914</span><span>&lt;/<span class="end-tag">CrossRateUSD</span>&gt;</span><span>
+</span></span><span id="line193"><span>				</span><span>&lt;<span class="start-tag">CrossRateOther</span><span>/</span>&gt;</span><span>
+</span></span><span id="line194"><span>		
+</span></span><span id="line195"><span>	</span><span>&lt;/<span class="end-tag">Currency</span>&gt;</span><span>
+</span></span><span id="line196"><span>	</span><span>&lt;<span class="start-tag">Currency</span> <span class="attribute-name">CrossOrder</span>="<a class="attribute-value">17</a>" <span class="attribute-name">Kod</span>="<a class="attribute-value">PKR</a>" <span class="attribute-name">CurrencyCode</span>="<a class="attribute-value">PKR</a>"&gt;</span><span>
+</span></span><span id="line197"><span>			</span><span>&lt;<span class="start-tag">Unit</span>&gt;</span><span>1</span><span>&lt;/<span class="end-tag">Unit</span>&gt;</span><span>
+</span></span><span id="line198"><span>			</span><span>&lt;<span class="start-tag">Isim</span>&gt;</span><span>PAKİSTAN RUPİSİ</span><span>&lt;/<span class="end-tag">Isim</span>&gt;</span><span>
+</span></span><span id="line199"><span>			</span><span>&lt;<span class="start-tag">CurrencyName</span>&gt;</span><span>PAKISTANI RUPEE</span><span>&lt;/<span class="end-tag">CurrencyName</span>&gt;</span><span>
+</span></span><span id="line200"><span>			</span><span>&lt;<span class="start-tag">ForexBuying</span>&gt;</span><span>0.15160</span><span>&lt;/<span class="end-tag">ForexBuying</span>&gt;</span><span>
+</span></span><span id="line201"><span>			</span><span>&lt;<span class="start-tag">ForexSelling</span>&gt;</span><span>0.15358</span><span>&lt;/<span class="end-tag">ForexSelling</span>&gt;</span><span>
+</span></span><span id="line202"><span>			</span><span>&lt;<span class="start-tag">BanknoteBuying</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">BanknoteBuying</span>&gt;</span><span>
+</span></span><span id="line203"><span>			</span><span>&lt;<span class="start-tag">BanknoteSelling</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">BanknoteSelling</span>&gt;</span><span>
+</span></span><span id="line204"><span>				</span><span>&lt;<span class="start-tag">CrossRateUSD</span>&gt;</span><span>281.05</span><span>&lt;/<span class="end-tag">CrossRateUSD</span>&gt;</span><span>
+</span></span><span id="line205"><span>				</span><span>&lt;<span class="start-tag">CrossRateOther</span><span>/</span>&gt;</span><span>
+</span></span><span id="line206"><span>		
+</span></span><span id="line207"><span>	</span><span>&lt;/<span class="end-tag">Currency</span>&gt;</span><span>
+</span></span><span id="line208"><span>	</span><span>&lt;<span class="start-tag">Currency</span> <span class="attribute-name">CrossOrder</span>="<a class="attribute-value">18</a>" <span class="attribute-name">Kod</span>="<a class="attribute-value">QAR</a>" <span class="attribute-name">CurrencyCode</span>="<a class="attribute-value">QAR</a>"&gt;</span><span>
+</span></span><span id="line209"><span>			</span><span>&lt;<span class="start-tag">Unit</span>&gt;</span><span>1</span><span>&lt;/<span class="end-tag">Unit</span>&gt;</span><span>
+</span></span><span id="line210"><span>			</span><span>&lt;<span class="start-tag">Isim</span>&gt;</span><span>KATAR RİYALİ</span><span>&lt;/<span class="end-tag">Isim</span>&gt;</span><span>
+</span></span><span id="line211"><span>			</span><span>&lt;<span class="start-tag">CurrencyName</span>&gt;</span><span>QATARI RIAL</span><span>&lt;/<span class="end-tag">CurrencyName</span>&gt;</span><span>
+</span></span><span id="line212"><span>			</span><span>&lt;<span class="start-tag">ForexBuying</span>&gt;</span><span>11.6725</span><span>&lt;/<span class="end-tag">ForexBuying</span>&gt;</span><span>
+</span></span><span id="line213"><span>			</span><span>&lt;<span class="start-tag">ForexSelling</span>&gt;</span><span>11.8253</span><span>&lt;/<span class="end-tag">ForexSelling</span>&gt;</span><span>
+</span></span><span id="line214"><span>			</span><span>&lt;<span class="start-tag">BanknoteBuying</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">BanknoteBuying</span>&gt;</span><span>
+</span></span><span id="line215"><span>			</span><span>&lt;<span class="start-tag">BanknoteSelling</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">BanknoteSelling</span>&gt;</span><span>
+</span></span><span id="line216"><span>				</span><span>&lt;<span class="start-tag">CrossRateUSD</span>&gt;</span><span>3.6501</span><span>&lt;/<span class="end-tag">CrossRateUSD</span>&gt;</span><span>
+</span></span><span id="line217"><span>				</span><span>&lt;<span class="start-tag">CrossRateOther</span><span>/</span>&gt;</span><span>
+</span></span><span id="line218"><span>		
+</span></span><span id="line219"><span>	</span><span>&lt;/<span class="end-tag">Currency</span>&gt;</span><span>
+</span></span><span id="line220"><span>	</span><span>&lt;<span class="start-tag">Currency</span> <span class="attribute-name">CrossOrder</span>="<a class="attribute-value">19</a>" <span class="attribute-name">Kod</span>="<a class="attribute-value">KRW</a>" <span class="attribute-name">CurrencyCode</span>="<a class="attribute-value">KRW</a>"&gt;</span><span>
+</span></span><span id="line221"><span>			</span><span>&lt;<span class="start-tag">Unit</span>&gt;</span><span>1</span><span>&lt;/<span class="end-tag">Unit</span>&gt;</span><span>
+</span></span><span id="line222"><span>			</span><span>&lt;<span class="start-tag">Isim</span>&gt;</span><span>GÜNEY KORE WONU</span><span>&lt;/<span class="end-tag">Isim</span>&gt;</span><span>
+</span></span><span id="line223"><span>			</span><span>&lt;<span class="start-tag">CurrencyName</span>&gt;</span><span>SOUTH KOREAN WON</span><span>&lt;/<span class="end-tag">CurrencyName</span>&gt;</span><span>
+</span></span><span id="line224"><span>			</span><span>&lt;<span class="start-tag">ForexBuying</span>&gt;</span><span>0.02952</span><span>&lt;/<span class="end-tag">ForexBuying</span>&gt;</span><span>
+</span></span><span id="line225"><span>			</span><span>&lt;<span class="start-tag">ForexSelling</span>&gt;</span><span>0.02991</span><span>&lt;/<span class="end-tag">ForexSelling</span>&gt;</span><span>
+</span></span><span id="line226"><span>			</span><span>&lt;<span class="start-tag">BanknoteBuying</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">BanknoteBuying</span>&gt;</span><span>
+</span></span><span id="line227"><span>			</span><span>&lt;<span class="start-tag">BanknoteSelling</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">BanknoteSelling</span>&gt;</span><span>
+</span></span><span id="line228"><span>				</span><span>&lt;<span class="start-tag">CrossRateUSD</span>&gt;</span><span>1443</span><span>&lt;/<span class="end-tag">CrossRateUSD</span>&gt;</span><span>
+</span></span><span id="line229"><span>				</span><span>&lt;<span class="start-tag">CrossRateOther</span><span>/</span>&gt;</span><span>
+</span></span><span id="line230"><span>		
+</span></span><span id="line231"><span>	</span><span>&lt;/<span class="end-tag">Currency</span>&gt;</span><span>
+</span></span><span id="line232"><span>	</span><span>&lt;<span class="start-tag">Currency</span> <span class="attribute-name">CrossOrder</span>="<a class="attribute-value">20</a>" <span class="attribute-name">Kod</span>="<a class="attribute-value">AZN</a>" <span class="attribute-name">CurrencyCode</span>="<a class="attribute-value">AZN</a>"&gt;</span><span>
+</span></span><span id="line233"><span>			</span><span>&lt;<span class="start-tag">Unit</span>&gt;</span><span>1</span><span>&lt;/<span class="end-tag">Unit</span>&gt;</span><span>
+</span></span><span id="line234"><span>			</span><span>&lt;<span class="start-tag">Isim</span>&gt;</span><span>AZERBAYCAN YENİ MANATI</span><span>&lt;/<span class="end-tag">Isim</span>&gt;</span><span>
+</span></span><span id="line235"><span>			</span><span>&lt;<span class="start-tag">CurrencyName</span>&gt;</span><span>AZERBAIJANI NEW MANAT</span><span>&lt;/<span class="end-tag">CurrencyName</span>&gt;</span><span>
+</span></span><span id="line236"><span>			</span><span>&lt;<span class="start-tag">ForexBuying</span>&gt;</span><span>25.0621</span><span>&lt;/<span class="end-tag">ForexBuying</span>&gt;</span><span>
+</span></span><span id="line237"><span>			</span><span>&lt;<span class="start-tag">ForexSelling</span>&gt;</span><span>25.3900</span><span>&lt;/<span class="end-tag">ForexSelling</span>&gt;</span><span>
+</span></span><span id="line238"><span>			</span><span>&lt;<span class="start-tag">BanknoteBuying</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">BanknoteBuying</span>&gt;</span><span>
+</span></span><span id="line239"><span>			</span><span>&lt;<span class="start-tag">BanknoteSelling</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">BanknoteSelling</span>&gt;</span><span>
+</span></span><span id="line240"><span>				</span><span>&lt;<span class="start-tag">CrossRateUSD</span>&gt;</span><span>1.7000</span><span>&lt;/<span class="end-tag">CrossRateUSD</span>&gt;</span><span>
+</span></span><span id="line241"><span>				</span><span>&lt;<span class="start-tag">CrossRateOther</span><span>/</span>&gt;</span><span>
+</span></span><span id="line242"><span>		
+</span></span><span id="line243"><span>	</span><span>&lt;/<span class="end-tag">Currency</span>&gt;</span><span>
+</span></span><span id="line244"><span>	</span><span>&lt;<span class="start-tag">Currency</span> <span class="attribute-name">CrossOrder</span>="<a class="attribute-value">21</a>" <span class="attribute-name">Kod</span>="<a class="attribute-value">AED</a>" <span class="attribute-name">CurrencyCode</span>="<a class="attribute-value">AED</a>"&gt;</span><span>
+</span></span><span id="line245"><span>			</span><span>&lt;<span class="start-tag">Unit</span>&gt;</span><span>1</span><span>&lt;/<span class="end-tag">Unit</span>&gt;</span><span>
+</span></span><span id="line246"><span>			</span><span>&lt;<span class="start-tag">Isim</span>&gt;</span><span>BİRLEŞİK ARAP EMİRLİKLERİ DİRHEMİ</span><span>&lt;/<span class="end-tag">Isim</span>&gt;</span><span>
+</span></span><span id="line247"><span>			</span><span>&lt;<span class="start-tag">CurrencyName</span>&gt;</span><span>UNITED ARAB EMIRATES DIRHAM</span><span>&lt;/<span class="end-tag">CurrencyName</span>&gt;</span><span>
+</span></span><span id="line248"><span>			</span><span>&lt;<span class="start-tag">ForexBuying</span>&gt;</span><span>11.6011</span><span>&lt;/<span class="end-tag">ForexBuying</span>&gt;</span><span>
+</span></span><span id="line249"><span>			</span><span>&lt;<span class="start-tag">ForexSelling</span>&gt;</span><span>11.7529</span><span>&lt;/<span class="end-tag">ForexSelling</span>&gt;</span><span>
+</span></span><span id="line250"><span>			</span><span>&lt;<span class="start-tag">BanknoteBuying</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">BanknoteBuying</span>&gt;</span><span>
+</span></span><span id="line251"><span>			</span><span>&lt;<span class="start-tag">BanknoteSelling</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">BanknoteSelling</span>&gt;</span><span>
+</span></span><span id="line252"><span>				</span><span>&lt;<span class="start-tag">CrossRateUSD</span>&gt;</span><span>3.6726</span><span>&lt;/<span class="end-tag">CrossRateUSD</span>&gt;</span><span>
+</span></span><span id="line253"><span>				</span><span>&lt;<span class="start-tag">CrossRateOther</span><span>/</span>&gt;</span><span>
+</span></span><span id="line254"><span>		
+</span></span><span id="line255"><span>	</span><span>&lt;/<span class="end-tag">Currency</span>&gt;</span><span>
+</span></span><span id="line256"><span>	</span><span>&lt;<span class="start-tag">Currency</span> <span class="attribute-name">CrossOrder</span>="<a class="attribute-value">22</a>" <span class="attribute-name">Kod</span>="<a class="attribute-value">KZT</a>" <span class="attribute-name">CurrencyCode</span>="<a class="attribute-value">KZT</a>"&gt;</span><span>
+</span></span><span id="line257"><span>			</span><span>&lt;<span class="start-tag">Unit</span>&gt;</span><span>1</span><span>&lt;/<span class="end-tag">Unit</span>&gt;</span><span>
+</span></span><span id="line258"><span>			</span><span>&lt;<span class="start-tag">Isim</span>&gt;</span><span>KAZAKİSTAN TENGESİ</span><span>&lt;/<span class="end-tag">Isim</span>&gt;</span><span>
+</span></span><span id="line259"><span>			</span><span>&lt;<span class="start-tag">CurrencyName</span>&gt;</span><span>KAZAKHSTAN TENGE</span><span>&lt;/<span class="end-tag">CurrencyName</span>&gt;</span><span>
+</span></span><span id="line260"><span>			</span><span>&lt;<span class="start-tag">ForexBuying</span>&gt;</span><span>0.08406</span><span>&lt;/<span class="end-tag">ForexBuying</span>&gt;</span><span>
+</span></span><span id="line261"><span>			</span><span>&lt;<span class="start-tag">ForexSelling</span>&gt;</span><span>0.08515</span><span>&lt;/<span class="end-tag">ForexSelling</span>&gt;</span><span>
+</span></span><span id="line262"><span>			</span><span>&lt;<span class="start-tag">BanknoteBuying</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">BanknoteBuying</span>&gt;</span><span>
+</span></span><span id="line263"><span>			</span><span>&lt;<span class="start-tag">BanknoteSelling</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">BanknoteSelling</span>&gt;</span><span>
+</span></span><span id="line264"><span>				</span><span>&lt;<span class="start-tag">CrossRateUSD</span>&gt;</span><span>506.88</span><span>&lt;/<span class="end-tag">CrossRateUSD</span>&gt;</span><span>
+</span></span><span id="line265"><span>				</span><span>&lt;<span class="start-tag">CrossRateOther</span><span>/</span>&gt;</span><span>
+</span></span><span id="line266"><span>		
+</span></span><span id="line267"><span>	</span><span>&lt;/<span class="end-tag">Currency</span>&gt;</span><span>
+</span></span><span id="line268"><span>	</span><span>&lt;<span class="start-tag">Currency</span> <span class="attribute-name">CrossOrder</span>="<a class="attribute-value">0</a>" <span class="attribute-name">Kod</span>="<a class="attribute-value">XDR</a>" <span class="attribute-name">CurrencyCode</span>="<a class="attribute-value">XDR</a>"&gt;</span><span>
+</span></span><span id="line269"><span>		</span><span>&lt;<span class="start-tag">Unit</span>&gt;</span><span>1</span><span>&lt;/<span class="end-tag">Unit</span>&gt;</span><span>
+</span></span><span id="line270"><span>		</span><span>&lt;<span class="start-tag">Isim</span>&gt;</span><span>ÖZEL ÇEKME HAKKI (SDR)                            </span><span>&lt;/<span class="end-tag">Isim</span>&gt;</span><span>
+</span></span><span id="line271"><span>		</span><span>&lt;<span class="start-tag">CurrencyName</span>&gt;</span><span>SPECIAL DRAWING RIGHT (SDR)                       </span><span>&lt;/<span class="end-tag">CurrencyName</span>&gt;</span><span>
+</span></span><span id="line272"><span>		</span><span>&lt;<span class="start-tag">ForexBuying</span>&gt;</span><span>58.6956</span><span>&lt;/<span class="end-tag">ForexBuying</span>&gt;</span><span>
+</span></span><span id="line273"><span>		</span><span>&lt;<span class="start-tag">ForexSelling</span><span>/</span>&gt;</span><span>
+</span></span><span id="line274"><span>		</span><span>&lt;<span class="start-tag">BanknoteBuying</span><span>/</span>&gt;</span><span>
+</span></span><span id="line275"><span>		</span><span>&lt;<span class="start-tag">BanknoteSelling</span><span>/</span>&gt;</span><span>
+</span></span><span id="line276"><span>		</span><span>&lt;<span class="start-tag">CrossRateUSD</span><span>/</span>&gt;</span><span>
+</span></span><span id="line277"><span>		</span><span>&lt;<span class="start-tag">CrossRateOther</span>&gt;</span><span>1.36870</span><span>&lt;/<span class="end-tag">CrossRateOther</span>&gt;</span><span>
+</span></span><span id="line278"><span>	</span><span>&lt;/<span class="end-tag">Currency</span>&gt;</span><span>
+</span></span><span id="line279"><span></span><span>&lt;/<span class="end-tag">Tarih_Date</span>&gt;</span><span>
+</span></span><span id="line280"><span></span></span></body></html>
